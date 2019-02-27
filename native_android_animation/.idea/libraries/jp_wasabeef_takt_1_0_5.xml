@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="jp.wasabeef:takt-1.0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/takt-1.0.5.aar/70c4f8d734dcc9316b5b89068d11f74c/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/takt-1.0.5.aar/70c4f8d734dcc9316b5b89068d11f74c/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/jp.wasabeef/takt/1.0.5/1f15e935067c9e94136fa92ca08b04258fd8177f/takt-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-navbar>
+    <button ion-button menuToggle>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+    <ion-title>Animation Page</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <lottie-animation-view [options]="lottieConfig" [width]="300" [height]="300" (animCreated)="handleAnimation($event)">
+  </lottie-animation-view>
+  <button ion-button (click)="play()">Play Animation</button>
+  <button ion-button (click)="navigateToSecondPage()">Navigate to Second Page</button>
+</ion-content>

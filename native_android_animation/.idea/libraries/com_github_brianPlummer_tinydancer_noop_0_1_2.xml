@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.github.brianPlummer:tinydancer-noop-0.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tinydancer-noop-0.1.2.aar/7dd952c380ba214b7115d7435251be04/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/tinydancer-noop-0.1.2.aar/7dd952c380ba214b7115d7435251be04/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.brianPlummer/tinydancer-noop/0.1.2/b40537de92636fa6cf19a0969a91d37167485852/tinydancer-noop-0.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

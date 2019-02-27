@@ -1,0 +1,4 @@
+android/app/android_keystore.keystore
+node_modules/
+.expo/
+npm-debug.*
